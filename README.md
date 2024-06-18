@@ -12,13 +12,13 @@ This model was trained using a custom dataset from motorcycles in Tehran's stree
 - matplotlib
 
 ## Dataset
-the dataset is available in [data](https://drive.google.com/drive/folders/1ZmSOmuEaLK_kwa5fSUrffk7FnxaQrXTr?usp=drive_link) 
+the dataset for both motorcycle detection and distance estimation are available in [data](https://drive.google.com/drive/folders/1ZmSOmuEaLK_kwa5fSUrffk7FnxaQrXTr?usp=drive_link) 
 ## Result
 ![24](https://github.com/zahrabsh74/YOLOMonodepth/blob/main/results.png)
 
 
 ## Inference
-- Download the [Modepth_model](https://drive.google.com/file/d/1LjhElUvirdqLEJgn84tK7hK-mhZmeKsZ/view?usp=drive_link) and [Yolo_model](https://drive.google.com/file/d/1SMbPmBQF1t_pd6iPSnfBXWxNw5AxNLPV/view?usp=drive_link)
+- 1- Download the the trained weights of [Modepth_model](https://drive.google.com/file/d/1LjhElUvirdqLEJgn84tK7hK-mhZmeKsZ/view?usp=drive_link) and [Yolo_model](https://drive.google.com/file/d/1SMbPmBQF1t_pd6iPSnfBXWxNw5AxNLPV/view?usp=drive_link)
 
 - Run the following code:
 ```
